@@ -73,9 +73,9 @@ Nüüd võtaks ühe suvalise numbri nagu 201702, äkki mahub ilma komakohata?  v
 <br>
 201702 / 9 = 22 411,3333 ...mitte päris<br>
 <br>
-nüüd, et teada saada, milline lähim arv 201702-le jagub siis täpselt 9-ga on vaja ainult antud numbrid järjest kokku liita, kuni järele jääb kümnendnumber:<br>
+nüüd, et teada saada, milline lähim arv 201702-le jagub täpselt 9-ga on vaja ainult antud numbrid järjest kokku liita, kuni järele jääb kümnendnumber:<br>
 <br>
-liidame:  2 + 0 + 1 + 7 + 0 + 2 = 12 :::  1 + 2 =  3. (<-- kui saadud nr on juba 9, siis jagub algne arv juba 9-ga..)<br>
+liidame:  2 + 0 + 1 + 7 + 0 + 2 = 12 :::  1 + 2 =  3. (<-- kui saadud number on juba 9, siis jagub algne arv juba 9-ga..)<br>
 <br>
 nüüd lahutades 201702 -st maha 3, peaksime teoorias saama arvu, mis jagub täpselt 9-ga, ning jäägiks saame arvestada liidetud numbreid, ehk siin siis: 3.<br>
 <br>
