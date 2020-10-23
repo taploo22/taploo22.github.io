@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Minuleht 201702</title>
-</head>
 <style>
 table, th, td {
   border: 1px solid Blue;
@@ -15,6 +12,9 @@ th {
   text-align: left;
 }
 </style>
+<head>
+<title>Minuleht 201702</title>
+</head>
 <body>
 
 <h1>nr 9.</h1>
