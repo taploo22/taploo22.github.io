@@ -4,6 +4,8 @@
 <title>Minuleht</title>
 </head>
 <body>
+
+<h1>nr 9.</h1>
 <style>
 table, th, td {
   border: 1px solid Blue;
@@ -16,8 +18,6 @@ th {
   text-align: left;
 }
 </style>
-
-<h1>nr 9.</h1>
 <p>Mis on number 9-s huvitavat?</p>
 Esiteks number 9 kuulub kümnendsüsteemi. Samuti on kõrgeim number kümnendsüsteemis. <br><br>
 See muidugi ei tee nr.9 just eriti huvitavaks...  aga enne, kui sellest rääkida, esitame kõik kümnendsüsteemi numbrid nimekirjana: <br><br>
