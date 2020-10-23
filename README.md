@@ -20,7 +20,7 @@ th {
 <h1>nr 9.</h1>
 <p>Mis on number 9-s huvitavat?</p>
 Esiteks number 9 kuulub kümnendsüsteemi. Samuti on kõrgeim number kümnendsüsteemis. <br><br>
-See muidugi ei tee nr.9 just eriti huvitavaks...  aga enne, kui huvitavast rääkida, esitame kõik kümnendsüsteemi numbrid nimekirjana: <br><br>
+See muidugi ei tee nr.9 just eriti huvitavaks...  aga enne, kui sellest rääkida, esitame kõik kümnendsüsteemi numbrid nimekirjana: <br><br>
 
  <table style="width:100%">
   <tr>
@@ -63,7 +63,7 @@ See muidugi ei tee nr.9 just eriti huvitavaks...  aga enne, kui huvitavast rää
 
 Üks number 9 eripära on, et number 9-ga on võimalik jagada ükskõik kui suurt naturaalarvu ilma komakoha tekkimiseta,<br>
 <br>
-kui: jagatav arv on 9 või suurem  ja naturaalarv.<br>
+kui: jagatav arv on  naturaalarv ja on 9 või suurem.<br>
 <br>
 Tõsi.., jäägiga tuleb arvestada aga see on kõik.<br>
 <br>
@@ -73,9 +73,9 @@ Nüüd võtaks ühe suvalise numbri nagu 201702, äkki mahub ilma komakohata?  v
 <br>
 201702 / 9 = 22 411,3333 ...mitte päris<br>
 <br>
-nüüd, et teada saada, milline lähim number jagub siis täpselt 9-ga on vaja ainult antud numbrid järjest kokku liita, kuni järele jääb kümnendnumber:<br>
+nüüd, et teada saada, milline lähim arv 201702 jagub siis täpselt 9-ga on vaja ainult antud numbrid järjest kokku liita, kuni järele jääb kümnendnumber:<br>
 <br>
-liidame:  2 + 0 + 1 + 7 + 0 + 2 = 12 :::  1 + 2 =  3. (<-- kui saadud nr. on juba 9, siis jagub antud summa juba 9-ga..)<br>
+liidame:  2 + 0 + 1 + 7 + 0 + 2 = 12 :::  1 + 2 =  3. (<-- kui saadud nr on juba 9, siis jagub algne arv juba 9-ga..)<br>
 <br>
 nüüd lahutades 201702 -st maha 3, peaksime teoorias saama arvu, mis jagub täpselt 9-ga, ning jäägiks saame arvestada liidetud numbreid, siin siis: 3.<br>
 <br>
