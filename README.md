@@ -81,7 +81,7 @@ nüüd lahutades 201702 -st maha 3, peaksime teoorias saama arvu, mis jagub täp
 <br>
 
  <a href="default.asp">
-  <img src="istockphoto-1030451148-1024x1024.jpg" alt="Numbrite pilt" style="width:512px;height:512px;">
+  <img src="https://media.istockphoto.com/photos/wooden-numbers-on-white-blackground-photo-with-clipping-path-picture-id1030451148" alt="Numbrite pilt" style="width:512px;height:512px;">
 </a> 
 
 
