@@ -79,6 +79,7 @@ liidame:  2 + 0 + 1 + 7 + 0 + 2 = 12 :::  1 + 2 =  3. (<-- kui saadud nr. on jub
 <br>
 nüüd lahutades 201702 -st maha 3, peaksime teoorias saama arvu, mis jagub täpselt 9-ga, ning jäägiks saame arvestada liidetud numbreid, siin siis: 3.<br>
 <br>
+ <a href="https://https://taltech.ee//">Kylasta Taltech-i kodulehte!</a> 
 
  <a href="default.asp">
   <img src="https://media.istockphoto.com/photos/wooden-numbers-on-white-blackground-photo-with-clipping-path-picture-id1030451148" alt="Numbrite pilt" style="width:512px;height:512px;">
