@@ -22,7 +22,7 @@ th {
 Esiteks number 9 kuulub kümnendsüsteemi. Samuti on kõrgeim number kümnendsüsteemis. <br><br>
 See muidugi ei tee nr.9 just eriti huvitavaks...  aga enne, kui sellest rääkida, esitame kõik kümnendsüsteemi numbrid nimekirjana: <br><br>
 
- <table style="width:33.5%">
+ <table style="width:33.7%">
   <tr>
    <th>Kümnendnumbrid kasvavas järjekorras:</th>
   </tr>
