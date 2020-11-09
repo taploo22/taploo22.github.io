@@ -63,7 +63,7 @@ See muidugi ei tee nr.9 just eriti huvitavaks...  aga enne, kui sellest rääkid
 
 Üks number 9 eripära on, et number 9-ga on võimalik jagada Ükskõik kui suurt täisarvu ilma komakoha tekkimiseta,<br>
 <br>
-kui jagatav arv on  täisarv ja on +/- 9 või suurem.<br>
+kui jagatav arv on  täisarv ja on ± 9 või suurem.<br>
 <br>
 Tõsi.., jäägiga tuleb arvestada, aga see on kõik.<br>
 <br>
