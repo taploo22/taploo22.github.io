@@ -61,15 +61,15 @@ See muidugi ei tee nr.9 just eriti huvitavaks...  aga enne, kui sellest rääkid
 <br>
 <p>Mis siis teeb numbri 9 huvitavaks.</p>
 
-Üks number 9 eripära on, et number 9-ga on võimalik jagada Ükskõik kui suurt naturaalarvu ilma komakoha tekkimiseta,<br>
+Üks number 9 eripära on, et number 9-ga on võimalik jagada Ükskõik kui suurt täisarvu ilma komakoha tekkimiseta,<br>
 <br>
-kui jagatav arv on  naturaalarv ja on 9 või suurem.<br>
+kui jagatav arv on  täisarv ja on +/- 9 või suurem.<br>
 <br>
 Tõsi.., jäägiga tuleb arvestada, aga see on kõik.<br>
 <br>
 Võtame näiteks number 9 -ise. Number 9 jagub 9-ga ja vastuseks saame 1.<br>
 <br>
-Nüüd võtaks ühe suvalise numbri nagu 201702, äkki mahub ilma komakohata?  vaatame:<br>
+Nüüd võtaks ühe suvalise arvu nagu 201702, äkki mahub ilma komakohata?  vaatame:<br>
 <br>
 201702 / 9 = 22 411,3333 ...mitte päris<br>
 <br>
